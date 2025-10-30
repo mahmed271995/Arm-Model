@@ -2,3 +2,11 @@
 
 This repository contains the MATLAB codes for the publications:  
 Ahmed, M.H.; N’Guessan, J.-E.; Das, R.; Leineweber, M.; Goyal, S. Simplified Cost Functions Meet Advanced Muscle Models to Streamline Muscle Force Estimation. BioMed 2024, 4, 350–365. https://doi.org/10.3390/biomed4030028
+
+## Instructions for running code
+1. Download the zip file or clone this repo using
+```
+git clone https://github.com/mahmed271995/Arm-Model
+```
+2. Open the file 'Arm_Model.mlx' on MATLAB
+3. 
