@@ -8,6 +8,7 @@ Ahmed, M.H.; N’Guessan, J.-E.; Das, R.; Leineweber, M.; Goyal, S. Simplified C
 ```
 git clone https://github.com/mahmed271995/Arm-Model
 ```
-2. Navigate to `Code` folder
+2. Navigate to the `Code` folder
 3. Open the file `Arm_Model.mlx` on MATLAB and click **Run** to execute the simulation
   * This will solve the system of equations, generate all required variables, and produce the plots corresponding to Figures 2-7 in the manuscript
+
