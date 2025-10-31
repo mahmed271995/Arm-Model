@@ -8,12 +8,12 @@ Organization is as follows:
 2. Data: Has the code and data for section `3.3 Model Validation` to reproduce the plots corresponding to `Figure 8`
 
 ## Instructions for running code
-1. Download the zip file or clone this repo using
+* Download the zip file or clone this repo using
 ```
 git clone https://github.com/mahmed271995/Arm-Model
 ```
-2. Navigate to the `Code` folder
-3. Open the file `Arm_Model.mlx` on MATLAB and click **Run** to execute the simulation
-  * This will solve the system of equations, generate all required variables, and produce the plots corresponding to `Figures 2-7` in the manuscript
+* Navigate to the `Code` folder
+*  Open the file `Arm_Model.mlx` on MATLAB and click **Run** to execute the simulation
+  - This will solve the system of equations, generate all required variables, and produce the plots corresponding to `Figures 2-7` in the manuscript
 
 
