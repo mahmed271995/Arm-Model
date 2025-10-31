@@ -5,7 +5,7 @@ Ahmed, M.H.; N’Guessan, J.-E.; Das, R.; Leineweber, M.; Goyal, S. Simplified C
 
 Organization is as follows:
 1. Code: Has the arm mode code used to generate all the data plots corresponding to `Figures 2-7` in the manuscript
-2. Data: Has the code and data for section `3.3 Model Validation` to reproduce the plots corresponding to `Figure 8`
+2. Data: Has the code and data for section `3.3 Model Validation` of the manuscript to reproduce the plots corresponding to `Figure 8`
 
 ## Instructions for running code
 * Download the zip file or clone this repo using
@@ -15,6 +15,7 @@ git clone https://github.com/mahmed271995/Arm-Model
 * Navigate to the `Code` folder
 * Open the file `Arm_Model.mlx` on MATLAB and click **Run** to execute the simulation
   - This will solve the system of equations, generate all required variables, and produce the plots corresponding to `Figures 2-7` in the manuscript
+
 
 
 
