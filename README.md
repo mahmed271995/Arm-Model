@@ -15,10 +15,10 @@ git clone https://github.com/mahmed271995/Arm-Model
 * Navigate to the `Code` folder
 * Open the file `Arm_Model.mlx` on MATLAB and click **Run** to execute the simulation
   - This will solve the system of equations, generate all required variables, and produce the plots corresponding to `Figures 2-6` in the manuscript
-
 * Navigate to the `Data` folder
 * Open the file `Data_Code.mlx` on MATLAB and click **Run** to execute the simulation
   - This will import all the `.csv` files and produce the plots corresponding to `Figures 7-8` in the manuscript
+
 
 
 
