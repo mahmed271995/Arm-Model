@@ -7,6 +7,11 @@ Organization is as follows:
 1. Code: Has the arm mode code used to generate all the data plots corresponding to `Figures 2-6` in the manuscript
 2. Data: Has the code and data for section `3.3 Model Validation` of the manuscript to reproduce the plots corresponding to `Figures 7-8`
 
+## Prerequisites
+Before running the code, ensure you have the following MATLAB toolboxes installed:  
+* Symbolic Math Toolbox
+* Optimization Toolbox
+
 ## Instructions for running code
 * Download the zip file or clone this repo using
 ```
@@ -18,12 +23,3 @@ git clone https://github.com/mahmed271995/Arm-Model
 * Navigate to the `Data` folder
 * Open the file `Data_Code.mlx` on MATLAB and click **Run** to execute the simulation
   - This will import all the `.csv` files and produce the plots corresponding to `Figures 7-8` in the manuscript
-
-
-
-
-
-
-
-
-
