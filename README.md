@@ -41,3 +41,6 @@ If you use this code in your research, please cite the following paper:
 **BioMed 2024, 4, 350–365.**  
 [DOI: 10.3390/biomed4030028](https://doi.org/10.3390/biomed4030028)
 
+## License
+
+This project is licensed under the MIT License, see the LICENSE file for details.
