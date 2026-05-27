@@ -1,0 +1,58 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "YOUR_NAME_HERE"
+  given-names: "YOUR_NAME_HERE"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Lisa"
+  given-names: "Mona"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Arm-Model"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2026-05-27
+
+
+cff-version: 1.2.0
+title: "MATLAB code for reproducing results in: Simplified Cost Functions Meet Advanced Muscle Models to Streamline Muscle Force Estimation"
+message: "If you use this code, please cite the associated article."
+type: software
+
+authors:
+  - family-names: Ahmed
+    given-names: Muhammad Hassaan
+  - family-names: N'Guessan
+    given-names: Jacques-Ezechiel
+  - family-names: Das
+    given-names: Ranjan
+  - family-names: Leineweber
+    given-names: Mathew
+  - family-names: Goyal
+    given-names: Sachin
+
+repository-code: "https://github.com/mahmed271995/Arm-Model"
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Ahmed
+      given-names: Muhammad Hassaan
+    - family-names: N'Guessan
+      given-names: Jacques-Ezechiel
+    - family-names: Das
+      given-names: Ranjan
+    - family-names: Leineweber
+      given-names: Mathew
+    - family-names: Goyal
+      given-names: Sachin
+  
+
+  title: "Simplified Cost Functions Meet Advanced Muscle Models to Streamline Muscle Force Estimation"
+
+  journal: "BioMed"
+  year: 2024
+  volume: 4
+  start: 350
+  end: 365
+
+  doi: 10.3390/biomed4030028
